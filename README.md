@@ -1,12 +1,3 @@
 # gulp-test
 
-```diff
-public class Hello1
-{
-   public static void Main()
-   {
--      System.Console.WriteLine("Hello, World!");
-+      System.Console.WriteLine("Rock all night long!");
-   }
-}
-```
+gulp 4 跟以前的版本比有小小的改變，所以做的小實驗
